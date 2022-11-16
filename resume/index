@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Teresa Marie Quinones's Resume</title>
+    <style>body {  background-color: #DBF9FC;  margin: 0 10%;  font-family: times-new-roman;  }h1 {  text-align: center;  font-family: serif;  font-weight: normal;  text-transform: uppercase;  border-bottom: 1px solid #57b1dc;  margin-top: 30px;}
+
+    h2 {  color: #d1633c;  font-size: 1em;}</style>
+  </head>
+  <body>
+
+  </body>
+</html>
+<h1>Teresa Marie Quinones</h1>
+<p>Cell: (386)473-4138 <br> Email: <a class="email" href="sparklyblue19@gmail.com"> sparklyblue19@gmail.com</a></p>
+
+<h5>My name is Teresa Marie Quinones and I am a Seminole State College student pursuing my associate of art degree. Then after I will be pursuing my bachelor's degree in Art and Design at University of Central Florida.
+I always had the passion to draw and make that my full-time job so becoming a graphic designer has been my dream for the last five years. I plan on becoming a professional graphic designer that can also do character designs and logo designs for brands.
+My personal interests are art, video games, traveling, swimming, working at my job, and spending time with my loved ones.
+
+<h2>MY SKILLS</h2>
+<ul class="boxlist">
+<li>Digital Art</li>
+<li>Microsoft 365</li>
+<li>Illustration</li>
+<li>Web Development</li>
+<li>Adobe Certified</li>
+<li>Character Designing</li>
+<li>Photo Editing</li>
+</ul>
+</h5>
+
+<h1>PORTFOLIO</h1>
+
+<h3>Here is my portfolio which includes original artwork, logo designs, and graphic design works.</h3>
+<h5><img src="Chriscommission.png" alt="commission"><br>Commission Work</h5>
+<h5><img src="mcrublecharcterlineup.png" alt="character design" width="660" height="600"><br></h5>
+<h5><img src="sweettreatsmcdonalds.png" alt="character design" width="660" height="600"><br>Character Designing</h5>
+<h5><img src="NovemberCoverart.png" alt="Cover Art" width="500" height="500"><br>Cover Art</h5>
+<h5><img src="QuinonesT_boxes.png" alt="Graphic design" width="500" height="500"><br>Graphic design</h5>
+<h5><img src="QuinonesT_leaves.png" alt="Template" width="660" height="600"><br>Template Design</h5>
+<h5><img src="VenomItalian.png" alt="Logo Design" width="660" height="600"><br>Logo Design</h5>
