@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Artist Support Center</title>
+  <link>
+  <link>
+</head>
+<body>
+ <h1>
+"Artist Support Center"</h1>
+<nav>
+ <ul id="menu" style="list-style-type:none;">
+  <li class="menu2">
+    <a href="index.html">Home</a>
+    </li>
+  <li class="menu2">
+    <a href="about.html">About</a>
+    </li>
+  <li class="menu2">
+    <a href="news.html">News</a>
+    </li>
+  <li class="menu2">
+    <a href="post.html">Post Your Art</a>
+    </li>
+  <li class="menu2">
+    <a href="contact.html">Contact</a>
+    </li>
+  <li class="menu2">
+    <a href="donate.html">Donate</a>
+</li>
+</ul>
+</nav>

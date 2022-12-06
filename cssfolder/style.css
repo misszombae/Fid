@@ -1,0 +1,6 @@
+header {...background-image: url(images/watercolorblue.png) url("watercolorblue.png"); background-color:#99d6ff ; background-position: center; text-align: center; padding: 20px}
+body {background-color:#99d6ff; margin: 0 10%; font-family: "Sofia", sans-serif ;}
+h1 {font-size: 35px; text-align: center;}
+p{ border-style: solid; border-color: blue; border-width: medium; border-radius: 10px; font-size: 20px}
+h2 {font-size: 30px; margin: 0;}
+img {border-radius: 8px; padding: 5px}
